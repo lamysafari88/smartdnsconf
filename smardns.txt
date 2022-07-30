@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/lamysafari88/smartdnsconf/main/accelerated-domains.china.domain.smartdns.conf
+https://raw.githubusercontent.com/lamysafari88/smartdnsconf/main/apple.china.domain.smartdns.conf
+https://raw.githubusercontent.com/lamysafari88/smartdnsconf/main/google.china.domain.smartdns.conf
